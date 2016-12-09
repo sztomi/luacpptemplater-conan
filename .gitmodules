@@ -1,0 +1,3 @@
+[submodule "luacpptemplater"]
+	path = luacpptemplater
+	url = https://github.com/sztomi/luacpptemplater.git
